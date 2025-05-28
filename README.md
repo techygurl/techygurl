@@ -95,17 +95,19 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 ## 📊 Business Analytics Projects
 
-**🔹 ShopWorld Inventory System Automation**  
-Case study on automating manual inventory processes to reduce stockouts and overstock. Aimed at improving accuracy, sales, and customer satisfaction.  
-🔗 *View Project*
+**🔹 Bike Store Revenue Analysis**  
+The managment of a bike sales store wants to know the activities happening in the sales department and gain insights into various trends happening in sales volume from 2018-2016.  
+[🔗 *View Project*](https://github.com/techygurl/Bike-Store-Analysis)
+
+
 
 ---
 
 ## 📈 Data Analytics Projects
 
-**🔹 Unicorn Companies Analysis (Excel Project)**  
-Analyzed billion-dollar startups—exploring trends in investment, industry, location, and ROI using Excel.  
-🔗 *View Project*
+**🔹  fumb games metrics**  
+This project explores player behavior and revenue performance in a live mobile game undergoing a multivariate A/B test. Using near-raw event data, the objective is to assess how different test variants are performing across key game metrics..  
+[[🔗 *View Project*] ](https://github.com/techygurl/fumb-games-metrics)
 
 
 ---
