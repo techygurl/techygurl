@@ -69,7 +69,8 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 **Data Visualization**  
 - Power BI  
-- Excel dashboards  
+- Excel dashboards
+- Jupiter notebook 
 
 **SQL & Data Extraction**  
 - Writing SQL queries  
@@ -78,7 +79,8 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 **Data Cleaning & Transformation**  
 - Excel  
-- Power Query  
+- Power Query
+- Python  
 
 ---
 
