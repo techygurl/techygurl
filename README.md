@@ -6,7 +6,7 @@ I bring **clarity**, **structure**, and **strategy** to every business challenge
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 I work closely with teams to:
 - Define goals  
@@ -19,7 +19,7 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 ---
 
-## 🔍 My Approach
+##  My Approach
 
 1. Start by fully understanding your business goals and challenges  
 2. Break down complex problems into simple, clear steps  
@@ -28,7 +28,7 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 ---
 
-## 💼 What I Bring to the Table
+##  What I Bring to the Table
 
 - Turn business goals into practical, step-by-step plans  
 - Identify and close gaps in processes, communication, and execution  
@@ -39,7 +39,7 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 ---
 
-## 🧠 Core Competencies
+##  Core Competencies
 
 - ✓ Business & Requirements Analysis  
 - ✓ Process Mapping  
@@ -51,7 +51,7 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 **Business Analysis**  
 - Requirement gathering  
@@ -84,7 +84,7 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 ---
 
-## 🤝 Soft Skills
+##  Soft Skills
 
 - Diligence & Attention to Detail  
 - Leadership & Strategic Thinking  
@@ -95,7 +95,7 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 ---
 
-## 📊 Business Analytics Projects
+## Business Analytics Projects
 
 **🔹 Bike Store Revenue Analysis**  
 The managment of a bike sales store wants to know the activities happening in the sales department and gain insights into various trends happening in sales volume from 2018-2016.  
@@ -105,7 +105,7 @@ The managment of a bike sales store wants to know the activities happening in th
 
 ---
 
-## 📈 Data Analytics Projects
+##  Data Analytics Projects
 
 **🔹  fumb games metrics**  
 This project explores player behavior and revenue performance in a live mobile game undergoing a multivariate A/B test. Using near-raw event data, the objective is to assess how different test variants are performing across key game metrics..  
