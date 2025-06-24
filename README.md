@@ -1,8 +1,17 @@
 # Hi there, I'm Nissi!
+Hey everyone, Nissi here,
 
-I’m a **Business Analyst** who helps businesses get clear on their goals and align the right people, strategies, and processes to make those goals a reality. With a solid background in data analysis and business strategy, I turn complex problems into simple, actionable solutions.
+I am a Data Analyst who transitioned into the field from a non-technical background
 
-I bring **clarity**, **structure**, and **strategy** to every business challenge.
+The Data field has completely changed my life, so I've made it part of my mission to also guide others (especially women) into the field who are also from a non-technical background
+
+My specialties are Data Visualization, BI Development, and Data Translation. I utilize Power BI, Tableau, Python & SQL
+
+If you are looking for a Data Analyst to join your team or on a contract basis, I'd love to chat
+
+OR if you are an aspiring Data Analyst looking for guidance, I would love to chat as well 
+
+shoot me a DM !!
 
 ---
 
