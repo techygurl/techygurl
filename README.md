@@ -104,11 +104,11 @@ Whether it’s turning a rough idea into a fully launched solution or keeping st
 
 ---
 
-## Business Analytics Projects
+## Game Analytics Projects
 
 **🔹 Bike Store Revenue Analysis**  
 The managment of a bike sales store wants to know the activities happening in the sales department and gain insights into various trends happening in sales volume from 2018-2016.  
-[🔗 *View Project*](https://github.com/techygurl/Bike-Store-Analysis)
+[🔗 *View Project*]([https://github.com/techygurl/Bike-Store-Analysis](https://github.com/techygurl/fumb-games-metrics))
 
 
 
